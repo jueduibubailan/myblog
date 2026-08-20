@@ -31,7 +31,7 @@ export const siteConfig = {
   photoWallImage: "https://bu.dusays.com/2026/03/24/69c1e38b4c370.jpg",
   cloudMusicIds: ["2155423467"],
   social: {
-    github: "https://github.com/ jueduibubailan",
+    github: "https://github.com/jueduibubailan",
     gitee: "",
     google: "",
     email: "wjz_Wh1te_Rice@163.com",
@@ -48,10 +48,10 @@ export const siteConfig = {
   // 👇 【新增】：全局背景弹幕配置
   danmakuList: ["在干嘛呢？", "有笨蛋嘛？", "前方高能反应！", "GROMACS 跑起来了吗？", "MD 模拟什么时候才能出图啊", "Graph Neural Networks 炼丹中...", "BUG 修复进度 99%", "今天背单词了吗？", "Tailwind CSS 拯救前端", "写算法中", "睡大觉中", "到底在干嘛？"],
   gitalkConfig: {
-    clientID: "",
-    clientSecret: "",
-    repo: "",
-    owner: "",
+    clientID: "Ov23liLSwK27k7baM1rq",
+    clientSecret: "c8a2e0672c21b5b1224bf3e9b53657d80471ab64",
+    repo: "1",
+    owner: "jueduibubailan",
     admin: [""],
   },
   buildDate: "2026-03-23T00:00:00", // 建站日期
