@@ -50,7 +50,7 @@ export const siteConfig = {
   gitalkConfig: {
     clientID: "Ov23liLSwK27k7baM1rq",
     clientSecret: "c8a2e0672c21b5b1224bf3e9b53657d80471ab64",
-    repo: "https://github.com/jueduibubailan/1/issues/1",
+    repo: "1",
     owner: "jueduibubailan",
     admin: [""],
   },
