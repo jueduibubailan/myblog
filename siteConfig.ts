@@ -22,7 +22,7 @@ export const siteConfig = {
   useGradient: false,
   themeColors: ["#a18cd1", "#fbc2eb", "#a1c4fd", "#c2e9fb"], // 呼吸流动的颜色组合
 // 修改这里：变成图片数组
-  bgImages: ["https://upload-bbs.miyoushe.com/upload/2025/07/04/291110358/fc5bd69d0186169a7f8a576557e52981_1867527063979254496.png?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png"],
+  bgImages: ["https://upload-bbs.miyoushe.com/upload/2025/07/04/291110358/fc5bd69d0186169a7f8a576557e52981_1867527063979254496.png?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png", "https://upload-bbs.miyoushe.com/upload/2026/08/17/22740605/d78e9f6f5f99011f0c26e271eb6f212f_4220497153878587504.jpg?x-oss-process=image/resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg", "https://upload-bbs.miyoushe.com/upload/2026/08/19/214243744/66ff4a9856213551da00d48a1d0d98d1_1275830953502498310.jpg?x-oss-process=image/resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg"],
 
   // 4. 文章默认封面图 (当 Markdown 没写 cover 时显示)
   defaultPostCover: "https://bu.dusays.com/2026/03/24/69c1e38b346cb.jpg",
