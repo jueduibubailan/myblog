@@ -9,4 +9,13 @@ export type Project = {
   tags: string[];
 };
 
-export const projectsData: Project[] = [];
+export const projectsData: Project[] = [
+  {
+    "id": "proj_1787482319810",
+    "name": "pomo-study",
+    "githubUrl": "https://github.com/jueduibubailan/pomo",
+    "description": "将pomo代码变为中文版本便于理解",
+    "icon": "🚀",
+    "tags": []
+  }
+];
